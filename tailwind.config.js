@@ -29,6 +29,7 @@ module.exports = {
         "bg-quaternary": "#E9EAEB", // Fixed spelling
         "fg-quinary": "#A4A7AE",
         "text-brand-secondary-alt": "#A62D02", // Renamed duplicate
+        "text-color":"#0000"
       },
     },
   },
